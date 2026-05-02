@@ -1,5 +1,5 @@
 ---
-title: 'Bulletin Hebdomadaire Bitcoin Optech #16'
+title: 'Bulletin Hebdomadaire Bitcoin Optech #16 : Spécial Scaling Bitcoin'
 permalink: /fr/newsletters/2018/10/09/
 name: 2018-10-09-newsletter-fr
 slug: 2018-10-09-newsletter-fr
@@ -172,11 +172,12 @@ liées au contenu de ce bulletin. Toute erreur restante est entièrement de la f
 
 ## Notes de bas de page
 
-[^freq-pow-waste]: Lorsqu'un mineur crée un nouveau bloc à la pointe de la chaîne, il peut commencer à travailler immédiatement sur le bloc
-suivant---mais tous les autres mineurs travaillent encore sur un ancien bloc jusqu'à ce qu'ils reçoivent le nouveau bloc, ce qui signifie
-que leur preuve de travail pendant cette brève période est gaspillée (elle n'augmente ni la sécurité du réseau ni ne fournit aux mineurs une
-compensation financière). Les mineurs disposant de plus de taux de hachage produisent davantage de blocs en moyenne, ils obtiennent donc
-cette avance plus souvent et une plus petite partie de leur preuve de travail est gaspillée.
+[^freq-pow-waste]: 
+    Lorsqu'un mineur crée un nouveau bloc à la pointe de la chaîne, il peut commencer à travailler immédiatement sur le bloc
+    suivant---mais tous les autres mineurs travaillent encore sur un ancien bloc jusqu'à ce qu'ils reçoivent le nouveau bloc, ce qui signifie
+    que leur preuve de travail pendant cette brève période est gaspillée (elle n'augmente ni la sécurité du réseau ni ne fournit aux mineurs une
+    compensation financière). Les mineurs disposant de plus de taux de hachage produisent davantage de blocs en moyenne, ils obtiennent donc
+    cette avance plus souvent et une plus petite partie de leur preuve de travail est gaspillée.
 
     Pour deux mineurs parfaitement équitables séparés par la moitié du globe, le délai réseau pratique minimal entre eux est d'environ 0,2
     seconde, ce qui signifie qu'un petit mineur éloigné de la plupart des autres mineurs n'est probablement productif que pendant 599,8
