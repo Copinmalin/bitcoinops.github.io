@@ -172,7 +172,7 @@ liées au contenu de ce bulletin. Toute erreur restante est entièrement de la f
 
 ## Notes de bas de page
 
-[^freq-pow-waste]: 
+[^freq-pow-waste]:
     Lorsqu'un mineur crée un nouveau bloc à la pointe de la chaîne, il peut commencer à travailler immédiatement sur le bloc
     suivant---mais tous les autres mineurs travaillent encore sur un ancien bloc jusqu'à ce qu'ils reçoivent le nouveau bloc, ce qui signifie
     que leur preuve de travail pendant cette brève période est gaspillée (elle n'augmente ni la sécurité du réseau ni ne fournit aux mineurs une
